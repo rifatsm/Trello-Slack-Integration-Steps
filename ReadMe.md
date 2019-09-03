@@ -59,3 +59,8 @@ With the following steps, you can connect the Slack channel with Trello, so that
 ![Choose Slack Team and Channel](choose_channel.png)
 
 9. Now you should be able to see the channel is connected to the Trello dashboard. Any changes made to the dashboard with send a notification to the Slack channel. 
+
+Additional links and References:
+ - Integration Slack to Trello: https://www.youtube.com/watch?v=pucYInTdrTE
+ - Trello Trello Slack Powerup: https://www.youtube.com/watch?v=wsv8cCeby1U
+ - Trello + Slack infographic: https://blog.trello.com/master-trello-app-for-slack-infographic
